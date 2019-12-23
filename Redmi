@@ -1,0 +1,9 @@
+ Esse sistema foi construido com  php ,
+ Mysql,
+ Html,
+ JavaScript,
+ CSS (boostrap),
+ visando atender os requisitos de automação de uma pousada (hotel).
+ 
+1° Para executá-lo é preciso subir o arquivo SQL, que está na pasta BD, para o MySql
+2° Mude o login da conta do banco de dados que está no arquivo php => ADOs/bdpdo.class.php
